@@ -1,0 +1,98 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    background-image: url('doctor_patient_blur.jpg'); /* Background image path */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+/* Container Class for Layout */
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Header Styling */
+header {
+    text-align: center;
+    color: white;
+    padding: 50px 0;
+    background: rgba(0, 0, 0, 0.6); /* Transparent overlay for text readability */
+}
+
+header h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.2em;
+    font-weight: 300;
+}
+
+/* Main Content Styling */
+main {
+    background: rgba(255, 255, 255, 0.9); /* Semi-transparent white */
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+}
+
+h2 {
+    font-size: 1.8em;
+    color: #4CAF50;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+#facility img {
+    width: 100%;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+/* Footer Styling */
+footer {
+    text-align: center;
+    padding: 20px 0;
+    background: #4CAF50;
+    color: white;
+    font-size: 1em;
+    margin-top: 20px;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+footer a:hover {
+    text-decoration: none;
+}
+
+/* Responsiveness */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2em;
+    }
+
+    header p, p {
+        font-size: 1em;
+    }
+}
