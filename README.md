@@ -33,13 +33,6 @@ This website is:
 
 ---
 
-## 🎥 Random Animation Example
-Here’s a cool animation to match the theme of websites:
-
-![Typing Animation](https://media.giphy.com/media/l0HlJO6BtkFltxvVm/giphy.gif)  
-*This is an example of a typing animation, which is commonly used for interactive websites.*
-
----
 
 ## 💻 Tech Stack
 - **HTML**: For structure.
@@ -51,11 +44,7 @@ Here’s a cool animation to match the theme of websites:
 
 ---
 
-## 🖼️ Screenshot
-![Website Screenshot](https://via.placeholder.com/600x300.png?text=Your+Website+Screenshot)  
-*(Replace this placeholder with a screenshot of your actual website.)*
 
----
 
 ## 🧑‍💻 About Me
 Hi, I'm **Suyash Singh**, a beginner web developer exploring the world of programming.  
