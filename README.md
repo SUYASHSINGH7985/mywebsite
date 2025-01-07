@@ -33,18 +33,15 @@ This website is:
 
 ---
 
-
 ## 💻 Tech Stack
 - **HTML**: For structure.
 - **CSS**: For styling and animations.
 - **Hosting**: Deployed using GitHub Pages.
 
-![Tech Stack GIF](https://media.giphy.com/media/3o7btK1ZkgxgD0JpZ2/giphy.gif)  
-*This GIF represents the coding process.*
+![Tech Stack GIF](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210304122610/20210304_115126.gif)  
+*This GIF showcases the process of web development and coding, which fits the tech stack section.*
 
 ---
-
-
 
 ## 🧑‍💻 About Me
 Hi, I'm **Suyash Singh**, a beginner web developer exploring the world of programming.  
