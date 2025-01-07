@@ -5,7 +5,7 @@ Welcome to my repository! This is a **simple and beginner-friendly website** sho
 ---
 
 ## 🚀 Live Website
-✨ **[Visit My Website](https://yourwebsite.com)** ✨  
+✨ **[Visit My Website](https://suyashsingh7985.github.io/mywebsite/)** ✨  
 
 ---
 
@@ -36,15 +36,7 @@ Here’s a cool animation to match the theme of websites:
 - **HTML**: For structure.
 - **CSS**: For styling and animations.
 - **Hosting**: Deployed using GitHub Pages.
-
----
-
-## 🖼️ Screenshot
-![Website Screenshot](https://your-image-link.com)  
-*(Replace this with a screenshot of your homepage.)*
-
----
-
+- 
 ## 🧑‍💻 About Me
 Hi, I'm **Suyash Singh**, a beginner web developer exploring the world of programming.  
 - 🌍 From Kanpur, India.  
