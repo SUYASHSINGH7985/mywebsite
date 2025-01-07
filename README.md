@@ -49,8 +49,8 @@ Hi, I'm **Suyash Singh**, a beginner web developer exploring the world of progra
 - 💼 [LinkedIn](https://www.linkedin.com/in/suyash-singh-0b38642b7)  
 - 📧 [Email](mailto:singhsuyash012@gmail.com)  
 
-![Personal Animation](https://media.giphy.com/media/l0MYrqVqhtLnlpUjm/giphy.gif)  
-*This GIF represents a personal introduction, which is great for profile pages.*
+![Personal Animation](https://f.hubspotusercontent40.net/hubfs/1951043/LinkedIn.gif)  
+*This GIF represents a LinkedIn animation, which highlights a professional aspect of my profile.*
 
 ---
 
@@ -59,8 +59,8 @@ Hi, I'm **Suyash Singh**, a beginner web developer exploring the world of progra
 - Create sections for **projects** and a **contact form**.
 - Continue learning web development to make more advanced websites.
 
-![Future Plans GIF](https://media.giphy.com/media/26BGd8ntv6ae9ajbG/giphy.gif)  
-*This animation symbolizes forward movement and progress, perfect for future planning.*
+![Future Plans Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLV724M4QSVD6ts7BHGXbmsUAl-Mv055jiMw&s)  
+*This image represents future growth and progress.*
 
 ---
 
