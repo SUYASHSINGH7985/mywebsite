@@ -7,8 +7,8 @@ Welcome to my repository! This is a **simple and beginner-friendly website** sho
 ## 🚀 Live Website
 ✨ **[Visit My Website](https://yourwebsite.com)** ✨  
 
-![Live Website](https://media.giphy.com/media/3oEduJ8bchzBy8AB6Y/giphy.gif)  
-*Here’s an example of a website loading animation.*
+![Live Website](https://media.giphy.com/media/xUPGcGSUO7WofmD1km/giphy.gif)  
+*Here’s a nice animation to represent loading or entering a website.*
 
 ---
 
@@ -18,8 +18,8 @@ This website is:
 - Built with a focus on **simplicity and smooth animations**.
 - A personal space to introduce myself and my future plans.
 
-![About Animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
-*This is a simple loading animation often used in web design.*
+![About Animation](https://media.giphy.com/media/l0MYrqVqhtLnlpUjm/giphy.gif)  
+*This GIF shows a nice and simple loading animation, a common feature in web design.*
 
 ---
 
@@ -28,16 +28,16 @@ This website is:
 - **Responsive Design**: Works on desktops, tablets, and phones.
 - **Beginner-Friendly Code**: Written with clean and understandable HTML and CSS.
 
-![Features GIF](https://media.giphy.com/media/l0MYrYVvkABP7gZYI/giphy.gif)  
-*This animation represents a smooth transition and hover effects, similar to features you'd see in websites.*
+![Features GIF](https://media.giphy.com/media/XyhsAAQzOt8pu/giphy.gif)  
+*This GIF showcases a transition effect, commonly used in website navigation.*
 
 ---
 
 ## 🎥 Random Animation Example
 Here’s a cool animation to match the theme of websites:
 
-![Typing Animation](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)  
-*This is an example of a typing effect animation, often used on websites.*
+![Typing Animation](https://media.giphy.com/media/8J8ZjT6z2Xy92Xg0bY/giphy.gif)  
+*This GIF represents a typing effect animation, often used in website interfaces.*
 
 ---
 
@@ -46,14 +46,14 @@ Here’s a cool animation to match the theme of websites:
 - **CSS**: For styling and animations.
 - **Hosting**: Deployed using GitHub Pages.
 
-![Tech Stack GIF](https://media.giphy.com/media/3o6ozuV6yg9Az5foR2/giphy.gif)  
-*This GIF showcases the concept of "building" or "creating," which fits well with the tech stack theme.*
+![Tech Stack GIF](https://media.giphy.com/media/xUOxfj60tgeoqh5Ely/giphy.gif)  
+*This GIF represents the process of "coding" or building, which aligns with the tech stack.*
 
 ---
 
 ## 🖼️ Screenshot
-![Website Screenshot](https://your-image-link.com)  
-*(Replace this with a screenshot of your homepage.)*
+![Website Screenshot](https://via.placeholder.com/600x300.png?text=Your+Website+Screenshot)  
+*(Replace this placeholder with a screenshot of your actual website.)*
 
 ---
 
@@ -63,14 +63,10 @@ Hi, I'm **Suyash Singh**, a beginner web developer exploring the world of progra
 - 💼 [LinkedIn](https://www.linkedin.com/in/suyash-singh-0b38642b7)  
 - 📧 [Email](mailto:singhsuyash012@gmail.com)  
 
-![Personal Animation](https://media.giphy.com/media/xT5LMLuLrnYw1lFByM/giphy.gif)  
-*Here’s a fun, friendly animated character representing a personal introduction.*
+![Personal Animation](https://media.giphy.com/media/3o85xt3l79irKh0ZpK/giphy.gif)  
+*This GIF represents a friendly and personal introduction, much like an avatar or introduction on a webpage.*
 
 ---
 
 ## ⚡ Future Plans
-- Add more **animated features** to improve the user experience.
-- Create sections for **projects** and a **contact form**.
-- Continue learning web development to make more advanced websites.
-
-![Future Plans GIF](https:/
+- Add more **animated features** to 
