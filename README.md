@@ -42,8 +42,6 @@ Hi, I'm **Suyash Singh**, a beginner web developer exploring the world of progra
 - 💼 [LinkedIn](https://www.linkedin.com/in/suyashsingh-dev)  
 - 📧 [Email](mailto:singhsuyash012@gmail.com)  
 
-![Personal Animation](https://f.hubspotusercontent40.net/hubfs/1951043/LinkedIn.gif)  
-*This GIF represents a LinkedIn animation, which highlights a professional aspect of my profile.*
 
 ---
 
