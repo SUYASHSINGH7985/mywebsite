@@ -1,11 +1,11 @@
-# 🌟 My Basic Animated Website
+My Basic Animated Website
 
 Welcome to my repository! This is a **simple and beginner-friendly website** showcasing my personal profile with a touch of animation.
 
 ---
 
-## 🚀 Live Website
-✨ **[Visit My Website]( https://suyashsingh7985.github.io/mywebsite/)** ✨  
+##  Live Website
+ **[Visit My Website]( https://suyashsingh7985.github.io/mywebsite/)** ✨  
 
 
 
